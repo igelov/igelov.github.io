@@ -9,8 +9,8 @@ body {
 
 .content {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 60%;
+  left: 45%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   height: 160px;
@@ -38,7 +38,7 @@ body {
 .content__container:after, .content__container:before {
   position: absolute;
   top: 0;
-  color: #16a085;
+  color: #d2d2d2;
   font-size: 42px;
   line-height: 40px;
   -webkit-animation-name: opacity;
