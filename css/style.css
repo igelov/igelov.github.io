@@ -15,7 +15,8 @@ body, html {
 /* First image (Logo. Full height) */
 .bgimg-1 {
     background-image: url('../images/main.jpg');
-    min-height: 10%;
+    min-height: 70%;
+    object-fit: fill;
     }
 
 /* Second image (Portfolio) */

@@ -1,12 +1,3 @@
-/*
-body {
-  width: 100%;
-  height: 100%;
-  position: fixed;
-  background-color: #34495e;
-}
-*/
-
 .content {
   position: absolute;
   top: 60%;
@@ -25,6 +16,7 @@ body {
   overflow: hidden;
   height: 40px;
   padding: 0 30px;
+    font-size: 15px;
 }
 .content__container:before {
   content: '[';
